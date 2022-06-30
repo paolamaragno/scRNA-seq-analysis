@@ -1,4 +1,4 @@
-# scRNA-seq-analysis
+# scRNA-seq analysis
 
 The analysis is performed using a set of scRNA-seq data - produced by 10x Genomics Chromium - dowloaded from PanglaoDB (https://panglaodb.se/view_data.php?sra=SRA653146&srs=SRS3044259).
 These data derive from 2737 cells of a mouse muscle sample.
